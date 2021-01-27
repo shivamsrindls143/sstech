@@ -1,2 +1,2 @@
 # sstech
-this is third changes
+this is third repository.
